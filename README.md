@@ -51,10 +51,4 @@ We have established this website with the aim of assisting students who have rec
 
 ` Formula Place Holder`
 
-## About Us
 
-We are a team of 4 students of batch 2027 from [IIIT Pune](https://iiitp.ac.in) who have intially developed this project to help those out whom we found in same shoe as us.
-
-## Contribute To The Project
-
-Feel free to raise issue but also be mindfull to others at the same time. And understand that we are students so we might not be able to reponse at time due to various obvious reasons.
